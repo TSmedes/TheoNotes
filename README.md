@@ -4,9 +4,25 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 TheoNotes is a simple mobile app built with expo react native that stores bible verses in categories.
 
+## Technologies
+
+**Front End**: React Native\
+**Back End**: TypeScript, Supabase\
+**Tools**: Expo
+
 ## Demo
 
+### Home Page
+<img src="https://github.com/TSmedes/TheoNotes/blob/main/assets/images/home.png" alt="home" width="300"/>
 
+### Category Page
+<img src="https://github.com/TSmedes/TheoNotes/blob/main/assets/images/category.png" alt="category" width="300"/>
+
+### Passages Page
+<img src="https://github.com/TSmedes/TheoNotes/blob/main/assets/images/passage.png" alt="passage" width="300"/>
+
+### Add Passage Screen
+<img src="https://github.com/TSmedes/TheoNotes/blob/main/assets/images/add_passage.png" alt="add_passage" width="300"/>
 
 ## Get started
 
